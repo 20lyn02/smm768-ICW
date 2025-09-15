@@ -9,8 +9,6 @@ This project analysed thousands of customer reviews for Singapore Airlines using
 - <b>Python</b>  
 - <b>Natural Language Processing (NLP)</b>  
 - <b>BERTopic</b>  
-- <b>Pandas & NumPy</b>  
-- <b>Matplotlib / Plotly</b>  
 - <b>Deep Learning Extensions for Text Analysis</b>  
 
 
